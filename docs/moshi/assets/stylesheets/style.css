@@ -44,7 +44,6 @@ a:active
 }
 
 .contents {
-
   padding: 5em 1em;
 }
 
@@ -79,4 +78,16 @@ hr {
   br.narrow {
     display: none;
   }
+}
+
+
+.story {
+}
+.story p {
+  text-indent: 1em;
+}
+.story .footnote {
+  display: block;
+  margin-top: 3em;
+  text-align: right;
 }
