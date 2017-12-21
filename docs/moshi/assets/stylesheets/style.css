@@ -88,7 +88,11 @@ header.header {
 }
 header.header picture.heroImage {
   margin: 0 auto;
-  text-align: center;
+}
+header.header picture.heroImage img {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .story {
