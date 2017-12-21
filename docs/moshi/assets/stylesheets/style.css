@@ -99,8 +99,7 @@ ul.par {
   list-style: none;
 }
 ul.par li {
-  margin-bottom: 0;
-  font-size: x-small;
+  font-size: small;
 }
 
 .story {
