@@ -24,7 +24,11 @@
 </head>
 <body>
   <header role="header" class="header">
-    <p><img src="assets/images/header.png" srcset="assets/images/header.png 767w, assets/images/og-image.png"></p>
+    <picture class="heroImage">
+      <source media="(min-width: 1200px)" srcset="assets/images/header@2x.png">
+      <source media="(min-width: 470px)" srcset="assets/images/header.png">
+      <img src="assets/images/header.png">
+    </picture>
   </header>
   <div class="contents">
     <h1>『もし』</h1>

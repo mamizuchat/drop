@@ -84,8 +84,9 @@ hr {
 
 header.header {
   width: 100%;
+  text-align: center;
 }
-header.header p {
+header.header picture.heroImage {
   margin: 0 auto;
   text-align: center;
 }
