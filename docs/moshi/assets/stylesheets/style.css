@@ -95,6 +95,14 @@ header.header picture.heroImage img {
   margin: 0 auto;
 }
 
+ul.par {
+  list-style: none;
+}
+ul.par li {
+  margin-bottom: 0;
+  font-size: x-small;
+}
+
 .story {
 }
 .story p {
