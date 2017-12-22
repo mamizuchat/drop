@@ -47,8 +47,8 @@ a:hover,
 a:focus,
 a:active
  {
-  color: #ff0066;
-  // color: #35b590;
+  // color: #ff0066;
+  color: #35b590;
 }
 
 h1 {
