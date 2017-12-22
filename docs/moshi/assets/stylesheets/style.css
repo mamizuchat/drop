@@ -133,12 +133,12 @@ article.histoire .story {
   margin: 3em 0;
 }
 article.histoire .story p {
-  margin-bottom: 8rem;
+  margin: 0 2rem 8rem;
   font-size: 90%;
   font-family: serif;
   text-indent: 1em;
   letter-spacing: 0.5rem;
-  line-height: 2;
+  line-height: 1.9;
   text-align: justify;
   word-break: break-all;
 }
