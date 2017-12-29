@@ -82,6 +82,15 @@ hr {
   margin: 2em auto;
 }
 
+del {
+  background-color: lightgrey;
+}
+ins {
+  background-color: white;
+  margin-left: .5em;
+  font-weight: bold;
+}
+
 
 /* contents */
 
